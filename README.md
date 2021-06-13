@@ -7,6 +7,7 @@ frp作者
 
 
 frps服务端：  
+
 安装frps：  
   <code>wget https://raw.githubusercontent.com/igoara/frp/main/frps.sh && chmod +x frps.sh && ./frps.sh</code>  
 配置frps.ini文件  
@@ -16,6 +17,7 @@ frps服务端：
   
   
 frpc客户端：  
+
 安装frpc客户端：  
    <code>wget https://raw.githubusercontent.com/igoara/frp/main/frpc.sh && chmod +x frpc.sh && ./frpc.sh</code>  
 配置frpc.ini文件  
